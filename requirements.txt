@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+openai
+pymongo
+pydantic-settings
+python-dotenv
+sentence-transformers
+elasticsearch
+pillow
+open-clip-torch
